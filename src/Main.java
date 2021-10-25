@@ -9,5 +9,6 @@ public class Main {
         /* zad1. stworzyć tablicę typu double 5-cio elementową,
         przypisać do niej wartości i wyświetlić */
 
+
     }
 }
